@@ -1,11 +1,11 @@
-Background Music:
-Royalty Free from https://soundimage.org/naturescience/
+Full Credits: 
 
-3D Assets:
-LowPolyCliffPack - BrokenVector
+Background Music: Royalty Free from https://soundimage.org/naturescience/
 
-Bird:
-Simplistic Low Poly Nature - Acorn Bringer
- 
-Skybox:
-Deep Space Skybox Pack - Sean Duffy
+3D Assets: LowPolyCliffPack - BrokenVector
+
+Bird: Simplistic Low Poly Nature - Acorn Bringer
+
+Skybox: Deep Space Skybox Pack - Sean Duffy
+
+Electro Particles: Cube Space Effects - Swift Games
