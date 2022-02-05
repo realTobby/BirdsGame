@@ -71,17 +71,13 @@ public class BirdFly : MonoBehaviour
         CurrentTime += Time.deltaTime;
         timeText.text = (CurrentTime % 60).ToString("F2");
 
-
         birdAnimator.speed = currentSpeed/2000;
 
         HandleMouseInput();
 
         LetBirdFly();
 
-        if(Input.GetKeyDown(KeyCode.R))
-        {
-            SceneManager.LoadScene(0);
-        }
+        
 
     }
 
